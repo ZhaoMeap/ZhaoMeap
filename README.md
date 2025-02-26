@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/ZhaoMeap/ZhaoMeap/blob/main/Github%20-%20Horizontal%20Cover.png"/>
+  <img height="300" src="https://github.com/ZhaoMeap/ZhaoMeap/blob/main/Github%20-%20Horizontal%20Cover.png"/>
 </div>
 
 ###
