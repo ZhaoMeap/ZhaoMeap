@@ -32,7 +32,7 @@
 
 <div align="center">
 <h1>Hello! My name is Ray 👋</h1>
-I'm currently working on Cathay United Bank Digital Data & Technology.<br>I'm currently learning Solidity, SQL injection, After Effect.<br>You can ask me about how to make a great note with Whimsical, HackMD or Notion.<br>Fun fact: I'm really like coding but I have no talent on it.<br>Just keep working hard & learning hard.<br>Sweat is the lubricant of success.
+I'm currently working on Cathay United Bank Digital Data & Technology.<br>I'm currently learning Solidity, SQL injection, After Effect.<br>You can ask me about how to make a great note with Whimsical, HackMD or Notion.<br>Fun fact: I really like coding but I have no talent on it.<br>Just keep working hard & learning hard.<br>Sweat is the lubricant of success.
 </div>
 
 ###
